@@ -1,0 +1,136 @@
+=== strona 1 ===
+JAK ZAŁOŻYĆ KONTO W TIPI?
+INSTRUKCJA DLA RODZICÓW
+Witamy w instrukcji obsługi systemu Tipi ZHP przeznaczonej dla rodziców i opiekunów
+prawnych członków Związku Harcerstwa Polskiego.
+
+O SYSTEMIE
+Tipi ZHP to system umożliwiający bezpieczne przechowywanie i sprawne zarządzanie danymi osobowymi
+oraz wszystkimi danymi „harcerskimi” związanymi z byciem zuchem, harcerzem czy instruktorem - członkiem
+Związku Harcerstwa Polskiego. System umożliwia także
+opacenie składki członkowskiej z wykorzystaniem płatności natychmiastowych PayNow.
+
+W razie pytań
+dotyczących działania
+systemu należy
+w pierwszej kolejności
+kontaktować się
+ze swoim drużynowym.
+
+i
+
+UZYSKANIE DOSTĘPU DO SYSTEMU
+
+1.
+
+LOGOWANIE
+
+Logowanie do systemu Tipi jest możliwe za pomocą indywidualnego loginu i hasła, poprzez stronę: https://tipi.zhp.pl/. Po wpisaniu nazwy użytkownika i hasła oraz kliknięciu
+przycisku „Zaloguj”, zostaniemy przekierowani do naszego profilu w Tipi.
+
+1
+
+
+=== strona 2 ===
+2.
+
+REJESTRACJA
+
+Konta rodzica mogą być tworzone przez drużynowych. Jeśli go nie masz, to skontaktuj
+się z drużynowym Twojego dziecka. Po założeniu konta otrzymasz widomość mailową,
+jak poniżej:
+Czuwaj, Zbigniew!
+Cieszymy się, że Genowefa jest członkiem ZHP. Zapraszamy do utworzenia konta
+w systemie Tipi.
+Formularz rejestracyjny dostępny jest za pośrednictwem poniższego linku:
+https://tipi.zhp.pl/registration/2a705c89-5e4d-4174-a082-460ee10f22dd
+Ten e-mail został wygenerowany automatycznie, prosimy na niego nie odpowiadać.
+Pozdrawiamy,
+Drużyna Tipi
+Wówczas, po przejściu w link, należy podać datę urodzenia dziecka, które jest członkiem
+ZHP. Taka weryfikacja wymagana jest ze względów bezpieczeństwa - w trosce o dane
+osobowe Twojego dziecka.
+
+2
+
+
+=== strona 3 ===
+W kolejnym kroku ustalamy nazwę użytkownika i hasło zgodnie z wymaganiami, a także
+weryfikujemy poprawność innych danych, które już wcześniej mogły być zapisane w systemie (np. kiedy zapisywaliśmy dziecko do ZHP). Na koniec zaznaczamy opcję „Nie jestem
+robotem” i klikamy przycisk „Wyślij”.
+
+Po pomyślnej rejestracji powinien wyświetlić się komunikat, jak poniżej:
+
+3
+
+
+=== strona 4 ===
+Ostatnim krokiem jest aktywacja naszego konta przy użyciu linku z wiadomości mailowej,
+która będzie wyglądać podobnie do poniżej:
+Czuwaj, Zbigniew!
+Dziękujemy za rejestrację w systemie Tipi.
+Nazwa użytkownika: zbigniew
+Aktywuj swoje konto za pomocą poniższego linku:
+https://tipi.zhp.pl/account/activate/4cf654ce-07ce-4baa-b9af-042d588800fe
+Ten e-mail został wygenerowany automatycznie, prosimy na niego nie odpowiadać.
+Pozdrawiamy,
+Drużyna Tipi
+Po pomyślnej aktywacji zobaczymy taki komunikat. Po kliknięciu przycisku „Zaloguj się”
+zostaniemy przekierowani do ekranu logowania.
+
+3.
+
+POMOC
+
+Jeśli nie wiesz, czy masz już konto, nie znasz swojego hasła lub potrzebujesz pomocy
+w innej kwestii, skorzystaj z odpowiedniego rozwiązania poniżej:
+OPIS PROBLEMU
+
+ROZWIĄZANIE
+
+Nie mam konta w Tipi.
+
+Poproś drużynowego o założenie konta.
+
+Nie wiem, czy mam już konto, czy nie.
+
+Poproś drużynowego o sprawdzenie,
+czy masz konto.
+
+Mam już konto, ale nie pamiętam hasła.
+
+Skorzystaj z opcji „Nie możesz uzyskać
+dostępu do swojego konta?”, która
+przekieruje Cię do strony umożliwiającej
+samodzielny reset hasła.
+
+Logowanie nie działa, pokazuje się
+komunikat, którego nie rozumiem,
+nie mogę uzyskać dostępu.
+
+Poproś drużynowego o pomoc. Pokaż mu,
+na czym dokładnie polega problem. Mogą
+być potrzebne Twoje dane, jak np. adres
+email, na który zostało założone konto.
+4
+
+
+=== strona 5 ===
+PO WIĘCEJ PORADNIKÓW DOT. MOŻLIWOŚCI SYSTEMU
+ZAPRASZAMY NA: POMOC.ZHP.PL
+
+PORADNIKI ONLINE
+– KLIKNIJ:
+
+1. Uzyskanie dostępu do systemu
+2. Mój profil w Tipi
+3. Dane mojego dziecka w Tipi
+4. Jak opłacić składki członkowskie?
+5. Jak złożyć wniosek o dodanie informacji
+nt. mojego dziecka do systemu?
+6. Przetwarzanie danych i wyrażone zgody
+fot. Karolina Piotrowska /ZHP
+
+5
+
+

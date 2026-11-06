@@ -1,0 +1,204 @@
+=== strona 1 ===
+JAK OPŁACIĆ SKŁADKĘ W TIPI?
+INSTRUKCJA DLA RODZICÓW
+Witamy w instrukcji obsługi systemu Tipi ZHP przeznaczonej dla rodziców i opiekunów
+prawnych członków Związku Harcerstwa Polskiego.
+
+O SYSTEMIE
+Tipi ZHP to system umożliwiający bezpieczne przechowywanie i sprawne zarządzanie danymi osobowymi
+oraz wszystkimi danymi „harcerskimi” związanymi z byciem zuchem, harcerzem czy instruktorem - członkiem
+Związku Harcerstwa Polskiego. System umożliwia także
+opacenie składki członkowskiej z wykorzystaniem płatności natychmiastowych PayNow.
+
+W razie pytań
+dotyczących działania
+systemu należy
+w pierwszej kolejności
+kontaktować się
+ze swoim drużynowym.
+
+i
+
+JAK OPŁACIĆ SKŁADKI CZŁONKOWSKIE?
+System Tipi umożliwia błyskawiczne opłacenie składki członkowskiej. Płatności można dokonać za wybrany kwartał lub od razu za cały rok dla jednego lub więcej dzieci, które są
+członkami ZHP.
+
+1.
+
+PŁATNOŚĆ SKŁADKI ZA JEDNO DZIECKO
+PŁATNOŚĆ BŁYSKAWICZNA PAYNOW
+
+Związek Harcerstwa Polskiego rekomenduje płatność z wykorzystaniem systemu Tipi
+i PayNow. Jest to najszybsza i najwygodniejsza metoda płatności składki gwarantująca pełne
+bezpieczeństwo. Informacja o płatności zostaje odnotowania automatycznie w systemie Tipi
+w ciągu kilku sekund po jej dokonaniu.
+Aby opłacić składkę należy w profilu naszego dziecka przejść do zakładki „Składki”. W sekcji
+„Składki członkowskie” znajdziemy informację o płatności składek. Poniżej zaprezentowano
+przykładową tabelkę składek - w sytuacji, gdzie nie opłacono jeszcze składek członkowskich.
+
+1
+
+
+=== strona 2 ===
+Aby opłacić składki klikamy na zielony przycisk: „Opłać składki członkowskie”. Po kliknięciu zobaczymy formularz z listą dostępnych kwartałów do opłacenia:
+
+Liczba dostępnych kwartałów do opłacenia, wysokość składek i inne ustawienia są
+definiowane przez administratora i mogą się różnić w zależności od drużyny lub
+gromady, której członkiem jest dziecko.
+Jeżeli nie widzisz żadnych kwartałów do opłacenia, oznacza to, że obecnie nie masz
+żadnych składek oczekujących na płatność.
+
+i
+
+Zaznacz kwartały, za które chcesz zapłacić np. Q1 i Q2 (czyli pierwszy kwartał: styczeń-marzec i drugi kwartał: kwiecień-czerwiec) i w metodach płatności wybierz pierwszą
+opcję: „Płatność online”. System pod tabelką pokaże sumaryczną kwotę do zapłaty.
+
+2
+
+
+=== strona 3 ===
+Następnie potwierdź zaznaczone dane za pomocą przycisku: „Przejdź do płatności”.
+Wyświetli się kolejne okno z informacją, że za chwilę nastąpi przekierowanie do zewnętrznego serwisu PayNow:
+
+Ponownie potwierdź wybierając przycisk: „Przejdź do płatności”. W nowym oknie możesz
+dokonać płatności za pomocą kodu BLIK lub przelewu online:
+
+Wprowadź kod lub odpowiednie dane bankowości online i kliknij przycisk „Płacę”.
+
+3
+
+
+=== strona 4 ===
+W przypadku pomyślnej transakcji wyświetli się komunikat i nastąpi przekierowanie do Tipi.
+
+W Tipi, w zakładce „Składki”, w profilu dziecka zweryfikuj poprawne dodanie informacji o płatności. System wyświetla informacje o kwartale, kwocie, statusie płatności, jej
+sposobie i terminie:
+
+4
+
+
+=== strona 5 ===
+PŁATNOŚĆ PRZELEWEM TRADYCYJNYM
+W systemie Tipi istnieje alternatywna możliwość opłacenia składki za pomocą tradycyjnego
+przelewu na rachunek bankowy ZHP.
+Aby skorzystać z tej opcji, należy analogicznie jak w przypadku płatności online, przejść do
+zakładki „Składki” w profilu dziecka i na dole strony pod tabelką z opłaconymi składkami
+nacisnąć zielony przycisk „Opłać składki członkowskie”:
+
+Następnie zaznaczyć składki do zapłacenia, a w sekcji „Wybierz metodę płatności”,
+wybrać opcję drugą czyli „Przelew tradycyjny”.
+
+5
+
+
+=== strona 6 ===
+Po przejściu dalej należy potwierdzić, że chcemy wygenerować dane do przelewu klikając na zielony przycisk: „Wygeneruj dane do przelewu”:
+
+W następnym oknie zobaczymy dane niezbędne do dokonania płatności: odbiorcę przelewu (tutaj może być to nazwa naszej drużyny, ale też często nazwa jednostki do której
+drużyna należy np. Hufca), kwotę, nr konta oraz tytuł przelewu.
+
+Na podstawie tych danych należy dokonać płatności i kliknąć przycisk „OK”.
+W zestawieniu składek naszego dziecka widzimy nowy rekord ze statusem „Oczekuje na
+zatwierdzenie”. Jeśli nie zapisaliśmy danych do dokonania przelewu, możemy je sprawdzić w dowolnym momencie klikając na 3 kropki po prawej stronie tego rekordu i wybierając opcję „pokaż szczegóły płatności”:
+
+6
+
+
+=== strona 7 ===
+Wówczas ponownie wyświetli nam się okno z danymi:
+
+Zwróć uwagę, aby w tytule przelewu poprawnie wpisać wygenerowany ciąg cyfr!
+Na podstawie tych danych wyznaczona osoba w hufcu (np. skarbnik) będzie
+zaznaczać w systemie informację o opłaceniu składek. Jeśli wprowadzisz inny tytuł,
+wówczas składka może nie zostać odnotowana. W takiej sytuacji skontaktuj się
+z drużynowym.
+W zależności od hufca, wprowadzanie danych o składkach na podstawie przelewów
+może odbywać się np. co dwa dni, raz w tygodniu lub rzadziej. Jeśli opłacono
+składkę, ale w Tipi ciągle jest status „Oczekuje na zatwierdzenie”, to poczekaj kilka dni
+lub zapytaj drużynowego, jak często dane wprowadzane są do systemu.
+
+i
+
+INNE METODY PŁATNOŚCI
+Jeśli wybierzesz inną niezalecaną metodę płatności, to informacja o płatności składki również będzie dodana do systemu. Pamiętaj jednak, że może to zająć dużo więcej czasu, niż
+w przypadku dwóch pierwszych sposobów płatności. Poniżej zaprezentowano przykładowe zestawienia składek — gdzie dwie składki opłacono za pomocą PayNow, jedną przelewem bankowym, który oczekuje na weryfikację, a jedną „poza” systemem Tipi:
+
+7
+
+
+=== strona 8 ===
+2.
+
+PŁATNOŚĆ SKŁADKI ZA WIELE DZIECI JEDNOCZEŚNIE
+
+W systemie istnieje możliwość opłaty składki za wiele dzieci jednocześnie - zarówno dla
+płatności błyskawicznych, jak i przelewem tradycyjnym.
+Aby opłacić składki za wiele dzieci należy w swoim profilu rodzica (nie dziecka) przejść do
+zakładki „Składki dzieci”.
+Następnie postępować dokładnie tak samo, jak w instrukcji powyżej, z tą różnicą,
+że w formularzu płatności możemy wybrać dowolny kwartał dla dowolnego dziecka tak,
+jak to zaprezentowano poniżej:
+
+Również zestawienie składek wygląda analogicznie, jak w profilu dziecka, z tym że mamy
+informację o płatnościach dla wszystkich dzieci:
+
+8
+
+
+=== strona 9 ===
+3.
+
+WZNOWIENIE PŁATNOŚCI / ZMIANA SPOSOBU PŁATNOŚCI
+
+Jeśli w bramce płatniczej wybrałeś już metodę płatności, ale:
+• zamknęła się strona www z płatnością;
+• jest czasowa awaria wybranego banku;
+• z jakiegoś innego powodu chciałbyś mienić płatność na inną
+to jest taka możliwość.
+Po rozpoczęciu płatności za pomocą bramki PayNow otrzymujesz wiadomość mailową
+dotyczącą statusu płatności. Przykładowa wiadomość poniżej:
+
+Po wejściu w link „Status transakcji” zostaniesz przekierowany do strony prezentującej status.
+
+i
+Mogą wystąpić różne statusy: w trakcie realizacji, niedokończona, ponowiona, itp.
+
+9
+
+
+=== strona 10 ===
+W zależności od statusu płatność możesz wznowić lub wygenerować nową płatność –
+wystarczy kliknąć na niebieski przycisk w bramce. W kolejnym kroku masz możliwość
+kontynuować z wybraną formą lub zmienić na inną.
+
+10
+
+
+=== strona 11 ===
+4.
+
+DODATKOWE INFORMACJE
+
+1. Zarówno system Tipi, jak i PayNow wysyłają powiadomienia o każdej transakcji. Otrzymasz również powiadomienie mailowe, kiedy informacja o składce zostanie odnotowania ręcznie.
+2. W przypadku gdy transakcja zostanie odrzucona, wówczas system Tipi odnotuje to
+odpowiednim statusem w tabelce składek. Wówczas można ponowić próbę płatności,
+klikając na przycisk „Opłać składki członkowskie”.
+3. Jeżeli masz jakieś pytania związane z działaniem modułu, na które nie znajdujesz odpowiedzi w instrukcji - skontaktuj się z drużynowym.
+
+PO WIĘCEJ PORADNIKÓW DOT. MOŻLIWOŚCI SYSTEMU
+ZAPRASZAMY NA: POMOC.ZHP.PL
+
+PORADNIKI ONLINE
+– KLIKNIJ:
+
+1. Uzyskanie dostępu do systemu
+2. Mój profil w Tipi
+3. Dane mojego dziecka w Tipi
+4. Jak opłacić składki członkowskie?
+5. Jak złożyć wniosek o dodanie informacji
+nt. mojego dziecka do systemu?
+6. Przetwarzanie danych i wyrażone zgody
+
+11
+
+

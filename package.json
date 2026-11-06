@@ -1,0 +1,29 @@
+{
+  "name": "harc-rag",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "predev": "npm run copy-sources",
+    "dev": "next dev",
+    "prebuild": "npm run copy-sources",
+    "build": "next build",
+    "start": "next start",
+    "copy-sources": "mkdir -p public/sources && cp data/sources/* public/sources/",
+    "test": "node --test lib/*.test.mjs scripts/*.test.mjs eval/*.test.mjs"
+  },
+  "dependencies": {
+    "@ai-sdk/google": "^4.0.112",
+    "@ai-sdk/react": "^4.0.167",
+    "@upstash/ratelimit": "^2.2.0",
+    "@upstash/redis": "^1.41.0",
+    "ai": "^7.0.163",
+    "next": "^16.4.5",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "typescript": "^7.0.2"
+  }
+}
